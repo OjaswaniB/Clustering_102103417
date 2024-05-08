@@ -1,6 +1,6 @@
 # Clustering
 Clustering is the process of grouping a population or data points into several clusters, where points within the same cluster are more similar to each other than to those in other clusters. It's a fundamental technique in unsupervised learning used for exploring data structure and identifying patterns.
-![image](https://github.com/OjaswaniB/Clustering_102103417/assets/118871180/9ba76774-4076-4cb5-8438-430facf8722e)
+![image](https://github.com/OjaswaniB/Clustering_102103417/assets/118871180/f84c8266-a65a-4987-a0bd-cfffd19a05c4)
 
 ## Parameters used:
 
